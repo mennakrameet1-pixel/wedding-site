@@ -5,10 +5,10 @@ const weddingConfig: WeddingConfigType = {
         bride: { firstName:'سماسيمو', lastName: 'Doe' },
         groom: { firstName: 'ميدو', lastName: 'Smith' }
     },
-    date: {
-        date: '2026-06-15',
-        time: '9:30' // Optional
-    },
+date: {
+    date: '2026-06-15T21:30:00',
+    time: '9:30 PM' 
+  },
     location: {
         title: 'قاعة السرايا ',
         address: 'دمياط الجديدة',
