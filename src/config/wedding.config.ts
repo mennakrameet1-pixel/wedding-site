@@ -2,16 +2,16 @@ import { WeddingConfigType } from "@/interfaces/config"
 
 const weddingConfig: WeddingConfigType = {
     people: {
-        bride: { firstName: 'Jane', lastName: 'Doe' },
-        groom: { firstName: 'John', lastName: 'Smith' }
+        bride: { firstName:'سماسيمو', lastName: 'Doe' },
+        groom: { firstName: 'ميدو', lastName: 'Smith' }
     },
     date: {
-        date: '2026-01-31',
-        time: '16:30' // Optional
+        date: '2026-03-21',
+        time: '9:30' // Optional
     },
     location: {
-        title: 'Teahouse in Stanley Park',
-        address: '7501 Stanley Park Dr, Vancouver, BC V6G 1Z4',
+        title: 'قاعة السرايا ',
+        address: 'دمياط الجديدة',
         link: 'https://www.vancouverdine.com/teahouse/',
         latLng: '49.3016707,-123.1597673'
     }
