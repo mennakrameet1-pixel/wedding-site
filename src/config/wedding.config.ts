@@ -6,7 +6,7 @@ const weddingConfig: WeddingConfigType = {
         groom: { firstName: 'ميدو', lastName: 'Smith' }
     },
     date: {
-        date: '2026-03-21',
+        date: '2026-06-15',
         time: '9:30' // Optional
     },
     location: {
