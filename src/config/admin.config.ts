@@ -1,6 +1,4 @@
-import { AdminConfigType } from "@/interfaces/config";
-
-export const adminConfig: AdminConfigType = {
+export const adminConfig = {
   email: 'admin@email.com',
   password: '2026',
 };
